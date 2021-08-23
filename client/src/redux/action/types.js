@@ -1,0 +1,11 @@
+export const ADD_TO_CART = "ADD_TO_CART"
+export const REMOVE_TO_CART = "REMOVE_TO_CART"
+export const REMOVE_CART = "REMOVE_CART"
+export const ADD_CART = "ADD_CART"
+export const APP_PRODUCT = "APP_PRODUCT"
+export const APP_PRODUCT_RING = "APP_PRODUCT_RING"
+export const APP_PRODUCT_ERRING = "APP_PRODUCT_ERRING"
+export const APP_PRODUCT_BRACEL = "APP_PRODUCT_BRACEL"
+export const APP_PRODUCT_CHAIN = "APP_PRODUCT_CHAIN"
+
+export const USER_CART = "USER_CART"
